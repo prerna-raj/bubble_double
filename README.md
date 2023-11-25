@@ -24,7 +24,7 @@ No installation is required for this project. Simply clone the repo.
 - Challenge yourself to achieve a high score!
 
 ## Screenshots
-![image](https://github.com/prerna-raj/bubble_double/assets/125340661/658b2134-c232-4a0d-8c49-441df33ec14b)
+![image](https://github.com/prerna-raj/bubble_double/assets/125340661/47b96a96-4926-407c-91d7-b0a4825a2173)
 
 ## CREDIT :
 Thank you sherians coding for teaching  me this .
