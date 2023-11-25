@@ -19,7 +19,7 @@ h1{
     height: 100%;
     width: 100%;
     /* background-color: #be28bc; */
-   background: url('bubble.gif') no-repeat;
+   /* background: url('bubble.gif') no-repeat; */
     background-size: cover;
     display: flex;
     justify-content: center;
