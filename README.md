@@ -1,3 +1,8 @@
-I have made bubble game using HTML CSS and Event Bubbling Concept in JAVASCRIPT.
+BUBBILE GAME PROJECT
+BUILT WITH : 
+* HTML
+* CSS
+* JAVASCRIPT 
+COVERING CONCEPT OF EVENT BUBBLING 
 <br>
-<h3>here is live demo: https://prerna-raj.github.io/bubble_double/</h3>
+<h3>LIVE DEMO: https://prerna-raj.github.io/bubble_double/</h3>
