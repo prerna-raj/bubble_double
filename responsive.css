@@ -43,7 +43,7 @@
     .bubble{
         width: 35px;
         height: 35px;   
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 900;
     }
 }
@@ -62,7 +62,7 @@
     .bubble{
         width: 35px;
         height: 35px;   
-        font-size: 1rem;
+        font-size: 1.5rem;
         font-weight: 900;
     }
     .elem{
