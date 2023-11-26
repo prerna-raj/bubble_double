@@ -32,11 +32,23 @@ function runTimer(){
         }
         else{
             clearInterval(timerint)
-            document.querySelector("#pbtm").innerHTML=`<h1>Game Over</h1>`
+            // document.querySelector("#pbtm").innerHTML=`<h1>Game Over</h1>`
+            document.querySelector("#pbtm").innerHTML = `<h1>Game Over</h1><button onclick="startAgain()">Start Again</button>`;
         }
     },1000)
     
 }
+
+function startAgain() {
+    timer = 60;
+    score = 0;
+    document.querySelector("#timerval").textContent = timer;
+    document.querySelector("#scoreval").textContent = score;
+    makeBubble();
+    getNewHit();
+    runTimer();
+}
+
 
 document.querySelector("#pbtm").
 addEventListener("click", function (details) {
@@ -49,6 +61,8 @@ addEventListener("click", function (details) {
 });
 
 
+
 runTimer()
 makeBubble()
 getNewHit()
+
