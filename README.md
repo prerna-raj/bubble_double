@@ -26,5 +26,8 @@ No installation is required for this project. Simply clone the repo.
 ## Screenshots
 ![image](https://github.com/prerna-raj/bubble_double/assets/125340661/47b96a96-4926-407c-91d7-b0a4825a2173)
 
+![image](https://github.com/prerna-raj/bubble_double/assets/125340661/6eb30081-cbe5-4609-8dfc-3dfe8ed07cd5)
+
+
 ## CREDIT :
 Thank you sherians coding for teaching  me this .
